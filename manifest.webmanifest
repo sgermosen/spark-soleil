@@ -1,0 +1,14 @@
+{
+  "name": "Spark Soleil — Aprende inglés jugando",
+  "short_name": "Spark Soleil",
+  "description": "App educativa para niños: inglés, lectura y actividades en familia",
+  "lang": "es",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8ed6ff",
+  "theme_color": "#8ed6ff",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
