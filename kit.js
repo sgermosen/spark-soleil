@@ -1,0 +1,1 @@
+window.Kit=window.Kit||{_leave(){}};
